@@ -1,3 +1,9 @@
+/*
+ * Author : Jacob Samro
+ * 02-12-2014 : 12:06 AM
+ * Swaping without using third variable
+ * */
+
 #include <stdio.h>
 
 int main()
