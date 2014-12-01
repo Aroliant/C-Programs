@@ -1,4 +1,4 @@
-C-Programs
+Programs Repo
 ==========
 
-Grab a wide range of C Programs here ( http://aroliant.com/pro-center )
+Grab a wide range of Programs here ( http://aroliant.com/pro-center )
