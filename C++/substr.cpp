@@ -5,8 +5,8 @@
  * substr ('Hello',1,4) ==>> ello
  * */
 
-#include<iostream>
-#include<string.h>
+#include <iostream>
+#include <string.h>
 using namespace std;
 void substr(char *str, int start, int size)
 {

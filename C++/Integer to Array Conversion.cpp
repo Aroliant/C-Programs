@@ -4,8 +4,10 @@
  * Integer to Array Conversion
  * */
 
-#include<iostream>
-#include<string.h>
+#include <iostream>
+#include <string.h>
+#include <conio.h>
+
 #define __SIZE__ 6
 
 using namespace std;
@@ -36,5 +38,6 @@ int main()
 	for(int i=0;i<__SIZE__;i++)
 	cout<<out[i]<<"\t";
 
+	getch();
 	return 0;
 }
