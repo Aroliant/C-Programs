@@ -1,3 +1,9 @@
+/* 
+* @Author: JacobSamro
+* @Date:   2014-12-11 21:05:50
+* @Last Modified by:   JacobSamro
+* @Last Modified time: 2014-12-11 21:06:37
+*/
 public class palindrome {
 
     public static void main(String []args) {
